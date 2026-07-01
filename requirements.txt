@@ -1,0 +1,7 @@
+pandas
+numpy
+yfinance
+aiosqlite
+MetaTrader5
+httpx
+arabic_reshaper
